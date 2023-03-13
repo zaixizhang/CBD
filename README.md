@@ -1,5 +1,6 @@
 # CBD
 Official Inplementation of CVPR23 paper "Backdoor Defense via Deconfounded Representation Learning"
+<div align=center><img src="https://github.com/zaixizhang/CBD/blob/main/backdoor.png" width="700"/></div>
 
 You can run CBD by
 ```
