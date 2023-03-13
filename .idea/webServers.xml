@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="990a28ea-934a-4f15-8406-f051b5798cc3" name="devcloud">
+        <fileTransfer rootFolder="/apdcephfs/private_zaixizhang/ABL" accessType="SFTP" host="9.135.87.151" port="36000" sshConfigId="ea021bdf-d53b-4561-a6fa-40b87c26a1d0" sshConfig="root@9.135.87.151:36000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
